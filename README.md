@@ -1,6 +1,3 @@
-# Graduation-paper
-Graph Attention Neural Networks for Survival Analysis of Default in Peer to Peer Lending
-
 # P2P 대출의 부도 시점 예측을 위한 그래프 어텐션 기반 생존분석 모델
 ## Graph Attention Neural Networks for Survival Analysis of Default in P2P Lending
 
